@@ -1,0 +1,142 @@
+.goodlayers-core-course-alert-box-wrapper{ position: fixed; width: 450px; top: 50%; left: 50%; z-index: 99999; color: #fff;
+	background: #000; background: rgba(0, 0, 0, 0.82); text-align: center; padding: 60px 30px;
+	overflow: hidden; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
+.goodlayers-core-course-alert-box-wrapper .goodlayers-core-course-alert-box-icon{ font-size: 20px; line-height: 20px; width: 20px; text-align: center;
+	margin-right: 15px; background: #51b66d; padding: 13px; overflow: hidden; vertical-align: middle; 
+    border-radius: 50%; -moz-border-radius: 50%; -webkit-border-radius: 50%; }
+.goodlayers-core-course-alert-box-wrapper .goodlayers-core-course-alert-box-icon.fa-remove{ background: #B65151; }
+.goodlayers-core-course-alert-box-wrapper .goodlayers-core-course-alert-box-head{ font-size: 17px; font-weight: bold; }
+.goodlayers-core-course-alert-box-wrapper .goodlayers-core-course-alert-box-text{ margin-top: 16px; color: #E2E2E2; }
+
+.goodlayers-core-course-conform-box-overlay{ position: fixed; z-index: 99998; top: 0px; right: 0px; bottom: 0px; left: 0px; background: #000; }
+.goodlayers-core-course-confirm-box-wrapper { position: fixed; width: 450px; background: #ffffff; 
+	top: 50%; left: 50%; z-index: 99999; text-align: center; font-family: 'Montserrat', sans-serif; }
+.goodlayers-core-course-confirm-box-wrapper .goodlayers-core-course-confirm-box-head { font-size: 13px; text-transform: uppercase; font-weight: bold; 
+    color: #828282; padding: 15px 0px; border-bottom: 1px solid #e8e8e8; }
+.goodlayers-core-course-confirm-box-wrapper .goodlayers-core-course-confirm-box-content-wrapper { padding: 35px 0px; }
+.goodlayers-core-course-confirm-box-wrapper .goodlayers-core-course-confirm-box-content-wrapper{ padding: 33px 0px; }
+.goodlayers-core-course-confirm-box-wrapper .goodlayers-core-course-confirm-box-text { font-size: 16px; color: #404040; }
+.goodlayers-core-course-confirm-box-wrapper .goodlayers-core-course-confirm-box-sub { font-size: 12px; margin-top: 11px; color: #b7b7b7; }
+.goodlayers-core-course-confirm-box-wrapper .goodlayers-core-course-confirm-box-button-wrapper{ overflow: hidden; }
+.goodlayers-core-course-confirm-box-wrapper .goodlayers-core-course-confirm-box-button{ width: 50%; text-align: center; float: left; cursor: pointer;
+    color: #fff; padding: 14px 0px; font-weight: bold; font-size: 13px; text-transform: uppercase; }
+.goodlayers-core-course-confirm-box-wrapper .goodlayers-core-course-confirm-box-button.goodlayers-core-course-yes{ background: #f95e5e; }
+.goodlayers-core-course-confirm-box-wrapper .goodlayers-core-course-confirm-box-button.goodlayers-core-course-no{ background: #383838; }
+
+.rtl .goodlayers-core-course-admin-option-wrapper {
+    direction: ltr;
+}
+.rtl .goodlayers-core-course-add-filter-head i {
+    margin-left: 15px;
+    margin-right: 0;
+}
+.rtl .goodlayers-core-course-add-filter-page-content table th {
+    text-align: right;
+}
+.rtl .goodlayers-core-course-add-filter-form-item .goodlayers-core-course-add-filter-description {
+    margin-right: 20px;
+    margin-left: 0;
+    display: inline-block;
+}
+.rtl .goodlayers-core-course-page-option-head-title i {
+    margin-left: 15px;
+    margin-right: 0;
+}
+.rtl .goodlayers-core-course-page-option-tab-head-item {
+    float: right;
+}
+.rtl .goodlayers-core-course-html-option-admin-manage-review .goodlayers-core-course-single-review-user {
+    float: right;
+    padding-left: 50px;
+    padding-right: 0;
+}
+.rtl .goodlayers-core-course-html-option-admin-manage-review .goodlayers-core-course-single-review-editable i {
+    margin-left: 6px;
+    margin-right: 0;
+}
+.rtl .goodlayers-core-course-html-option-item-input {
+    float: right;
+}
+.rtl .goodlayers-core-course-html-option-item-description {
+    padding-right: 29px;
+    padding-left: 0;
+}
+.rtl .goodlayers-core-course-html-option-item-title {
+    float: right;
+    margin-left: 15px;
+    margin-right: 0;
+}	
+.rtl .goodlayers-core-course-html-option-datepicker-icon {
+    margin-right: -25px;
+    margin-left: 0;
+}	
+.rtl .goodlayers-core-course-page-option-content .goodlayers-core-course-column-right-divider-icon {
+    left: -25px;
+    right: auto;
+}	
+.rtl .goodlayers-core-course-html-option-item .goodlayers-core-course-html-option-tabs-input-title {
+    float: right;
+    margin-left: 15px;
+    margin-right: 0;
+}	
+.rtl .goodlayers-core-course-html-option-item .goodlayers-core-course-html-option-tabs-input {
+    float: right;
+}
+.rtl .goodlayers-core-course-html-option-item .goodlayers-core-course-html-option-tabs-template-content {
+    text-align: right;
+}
+.rtl .goodlayers-core-course-html-option-item .goodlayers-core-course-html-option-tabs-input-description {
+    padding-right: 29px;
+    padding-left: 0;
+}
+.rtl .goodlayers-core-course-html-option-item .goodlayers-core-course-html-option-tabs-remove {
+    left: 15px;
+    right: auto;
+}	
+.rtl .goodlayers-core-course-html-option-item.goodlayers-core-course-html-option-custom-group-discount-item .goodlayers-core-course-html-option-item-title {
+    float: right;
+}
+.rtl .goodlayers-core-course-html-option-checkbox-appearance {
+    direction: ltr;
+}	
+.rtl .goodlayers-core-course-order-filter-wrap label {
+    margin-left: 10px;
+    margin-right: 0;
+}
+.rtl .goodlayers-core-course-order-filter-wrap .goodlayers-core-course-separater {
+    display: inline-block;
+}
+.rtl .goodlayers-core-course-order-filter a {
+    display: inline-block;
+}
+.rtl .goodlayers-core-course-order-page-head i {
+    margin-left: 15px;
+    margin-right: 0;
+}
+.rtl .goodlayers-core-course-order-page-content table th {
+    text-align: right;
+}
+.rtl .goodlayers-core-course-my-booking-single-field .goodlayers-core-course-head {
+    float: right;
+    margin-left: 10px;
+    margin-right: 0;
+}
+.rtl .goodlayers-core-course-price-breakdown .goodlayers-core-course-tail .goodlayers-core-course-price {
+    float: left;
+}
+.rtl .goodlayers-core-course-price-breakdown .goodlayers-core-course-tail .goodlayers-core-course-price-detail {
+	direction: ltr;
+    display: inline-block;
+}
+.rtl .goodlayers-core-course-price-breakdown .goodlayers-core-course-head {
+    margin-left: 13px;
+    margin-right: 0;
+}
+.rtl .goodlayers-core-course-price-breakdown .goodlayers-core-course-tail.goodlayers-core-course-right {
+    float: left;
+}
+.rtl .goodlayers-core-course-my-booking-single-sidebar {
+    float: left;
+    padding-right: 30px;
+    padding-left: 0;
+}
